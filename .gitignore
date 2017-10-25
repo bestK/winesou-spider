@@ -1,0 +1,30 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+VinoHobbyPro.pdb
+*.iws
+*.iml
+*.ipr
+mvnw
+mvnw.cmd
+*log*
+.svn
+.mvn
+src/main/resources/META-INF/
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
