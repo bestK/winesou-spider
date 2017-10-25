@@ -1,13 +1,22 @@
 # webmagic 酒一搜  爬虫
 
 
+
+## TODO
+1. 保存红酒信息为 json 文件
+
+2. 下载红酒图片到本地指定文件夹
+
+[爬虫主要代码     逻辑](https://github.com/bestK/winesou-spider/blob/master/src/main/java/me/payti/spider/pageprocessor/WinesouProcessor.java)
+
+
 ![spider](http://ww4.sinaimg.cn/large/0060lm7Tly1fkufqhmp9tj30i70g4mzh.jpg)
 
 
 
 ![spider](http://ww4.sinaimg.cn/large/0060lm7Tly1fkuftpfn62j30e807e3yk.jpg)
 
-
+   
 ```
 {
    "area":"沿海地区(Coastal Region)",
